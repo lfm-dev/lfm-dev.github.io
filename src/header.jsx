@@ -16,10 +16,10 @@ function Buttons() {
 
 function Header() {
   return (
-    <>
+    <div className={styles.header}>
       <Buttons />
       <h1>LFM</h1>
-    </>
+    </div>
   );
 }
 
