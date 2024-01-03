@@ -1,6 +1,7 @@
 import styles from "./header.module.css";
 
 function Buttons() {
+  //TODO disappearing buttons
   return (
     <>
       <ul>
